@@ -1,9 +1,13 @@
+h1 {
+  background: #28fa75;
+}
+
 div {
   display: flex;
   align-content: center;
   flex-direction: column;
   padding: 5px;
-  background: #42f5b0;
+  background: #1db354;
   border-radius: 5px;
 }
 
